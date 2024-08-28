@@ -30,3 +30,13 @@
 *.exe
 *.out
 *.app
+
+# PlatformIO
+.pioenvs
+.piolibdeps
+.clang_complete
+.gcc-flags.json
+.pio
+
+# VSCode
+.vscode
